@@ -9,3 +9,9 @@ A repo to practice git commands, Pull Requests and rebasing
   - PHP
   - Java
   - Golang
+
+**Hobbies**:
+  - Photography
+  - Teaching TDD
+  - Cooking
+  - Collection CDs
